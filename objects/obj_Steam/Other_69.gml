@@ -1,0 +1,1 @@
+show_debug_message("Steam async: " +json_encode(async_load));
